@@ -13,7 +13,7 @@
 
 | 👤 Author | 🎓 University | 📋 Course | 🆔 Roll Number |
 |-----------|--------------|-----------|----------------|
-| Budhwani Gaurav Pratap | VIT Bhopal University | Open Source Software | 24MIP10087 |
+|AKSHAY UJJWAL | VIT Bhopal University | Open Source Software | 24BSA10374|
 
 </div>
 
@@ -47,7 +47,7 @@ Python was born out of frustration with closed, inaccessible tools. Guido chose 
 ## 📁 Repository Structure
 
 ```
-oss-audit-24MIP10087/
+oss-audit-24BSA10374/
 │
 ├── 📜 script1.sh          →  System Identity Report
 ├── 📜 script2.sh          →  FOSS Package Inspector
@@ -140,10 +140,10 @@ bash script5.sh
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/Gauravbudhwani/oss-audit-24MIP10087.git
+git clone https://github.com/AKSHAYUJJWAL286/oss-audit-akshay-ujjwal-24bsa10374.git
 
 # Step 2: Move into the project folder
-cd oss-audit-24MIP10087
+cd oss-audit-24BSA10374
 
 # Step 3: Give execute permissions to all scripts
 chmod +x *.sh
@@ -199,6 +199,6 @@ The report covers:
 ---
 
 Made with 🐍 and open source spirit  
-**Budhwani Gaurav Pratap** | VIT Bhopal University | 2026
+**AKSHAY UJJWAL** | VIT Bhopal University | 2026
 
 </div>
